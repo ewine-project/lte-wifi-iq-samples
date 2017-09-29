@@ -8,10 +8,8 @@ We have proposed machine learning based classification to identify the incumbent
 
 This space provides some sample data sample files collected:
 
-a. in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data.	
-
+a. in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data
 b. using the B210 USRP from Ettus research. At the time of data collection, we had four B210s in our pocession, each having four antenna slots (sections A and B, each having a Tx/Rx and an Rx antenna slot)
-
 c. by Jerome Arokkiam, as transmitted by commercial LTE and WiFi base stations.
 
 
