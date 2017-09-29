@@ -7,9 +7,9 @@ The unlicesend band is faced with the new challenge of LTE-WiFi co-existence, wi
 We have proposed machine learning based classification to identify the incumbent technology (between WiFi and LTE) at a given time at a given frequency in the unlisenced band. In order to validate a machine learning model for accuracy at different channel conditions between LTE and WiFi, a substantial amount of data samples are required for training and cross-validating the machine learning model.
 
 This space provides some sample data sample files collected:
-  1. in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data
-  1. using the B210 USRP from Ettus research. At the time of data collection, we had four B210s in our pocession, each having four antenna slots (sections A and B, each having a Tx/Rx and an Rx antenna slot)
-  1. by Jerome Arokkiam, as transmitted by commercial LTE and WiFi base stations.
+  a. in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data
+  b. using the B210 USRP from Ettus research. At the time of data collection, we had four B210s in our pocession, each having four antenna slots (sections A and B, each having a Tx/Rx and an Rx antenna slot)
+  c. by Jerome Arokkiam, as transmitted by commercial LTE and WiFi base stations.
 
 
 Naming convention of the the data file is as follows:
