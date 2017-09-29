@@ -2,9 +2,8 @@ Readme:
 This file provides a summary regarding the nature-of-collection and contents of the data samples linked in this space.
 
 The provided data samples contain the raw I&Q samples collected over the air by Jerome Arokkiam, from commercial LTE and WiFi base stations. Data collection was carried out:
-	in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data.
-	
-	using the B210 USRP from Ettus research. At the time of data collection, we had four B210s in our pocession, each having four antenna slots (sections A and B, each having a Tx/Rx and an Rx antenna slot)
+-in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data.	
+-using the B210 USRP from Ettus research. At the time of data collection, we had four B210s in our pocession, each having four antenna slots (sections A and B, each having a Tx/Rx and an Rx antenna slot)
 
 Naming convention of the the data file is as follows:
 technology-centreFrequency-antennaGain-sampleCaputuredRate-capturedBandwidth-captureInstance.bin
