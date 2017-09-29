@@ -23,3 +23,6 @@ wifi-5660MHz-gain30dB-capturedRate15Msps-bandwidth15MHz-it1.bin, where the captu
 2. has a centre frquency of 5660MHz and a bandwidth of 15MHz
 3. is sampled at a rate of 15Msps and with an antenna gain of 30dB
 4. and is the first capture instance (it1) having the settings (1) to (3).
+
+
+Due to the large size of each of the I&Q sample file (which results in 160MB when a 10MHz bandwidth is sampled at 10Msps for 1second duration), the link below directs to a google-drive space, which contain the samples collected by Jerome Arokkiam over 3 different times of the year (as indicated in the folder names):
