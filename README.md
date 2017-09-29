@@ -1,9 +1,16 @@
 Readme:
-This file provides a summary regarding the nature-of-collection and contents of the data samples linked in this space.
+This file briefly describe the nature-of-collection and contents of the data samples provided (linked) in this space.
 
-The provided data samples contain the raw I&Q samples collected over the air by Jerome Arokkiam, from commercial LTE and WiFi base stations. Data collection was carried out:
+SCOPE:
+The unlicesend band is faced with the new challenge of LTE-WiFi co-existence, with the recent standardisation of LTE for the operation in the unlicensed band (LTE-LAA, LTE-U), and the listen-before-talk behaviour of the soft-incumbent, WiFi, in the unlicensed band. Since the unlicesned band has a large chunk of 'free' bandwidth in the 5GHz in addition to the saturated 2.4GHz, channel selection has been proposed as one of the techniques to enable fair usage of the unlicensed band by the dominant (heavily used) LTE and WiFi technologies.
+
+We have proposed machine learning based classification to identify the incumbent technology (between WiFi and LTE) at a given time at a given frequency in the unlisenced band. In order to validate a machine learning model for accuracy at different channel conditions between LTE and WiFi, a substantial amount of data samples are required for training and cross-validating the machine learning model.
+
+This space provides some sample data sample files collected:
 -in the CONNECT building (Dunlop Oriel House) in Dublin 2, in Ireland, in the 2nd floor, where CONNECT's testbed was located at the time of collecting the data.	
 -using the B210 USRP from Ettus research. At the time of data collection, we had four B210s in our pocession, each having four antenna slots (sections A and B, each having a Tx/Rx and an Rx antenna slot)
+-by Jerome Arokkiam, as transmitted by commercial LTE and WiFi base stations.
+
 
 Naming convention of the the data file is as follows:
 technology-centreFrequency-antennaGain-sampleCaputuredRate-capturedBandwidth-captureInstance.bin
