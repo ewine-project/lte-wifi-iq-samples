@@ -1,5 +1,5 @@
 Readme:
-This file briefly describe the nature-of-collection and contents of the data samples provided (linked) in this space.
+This file briefly describes the nature-of-collection and contents of the data samples provided (linked) in this space.
 
 SCOPE:
 The unlicesend band is faced with the new challenge of LTE-WiFi co-existence, with the recent standardisation of LTE for the operation in the unlicensed band (LTE-LAA, LTE-U), and the listen-before-talk behaviour of the soft-incumbent, WiFi, in the unlicensed band. Since the unlicesned band has a large chunk of 'free' bandwidth in the 5GHz in addition to the saturated 2.4GHz, channel selection has been proposed as one of the techniques to enable fair usage of the unlicensed band by the dominant (heavily used) LTE and WiFi technologies.
