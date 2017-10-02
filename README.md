@@ -27,6 +27,7 @@ wifi-5660MHz-gain30dB-capturedRate15Msps-bandwidth15MHz-it1.bin, where the captu
 
 LINK:
 
-https://mega.nz/#F!YmBU3SpC
+
+https://mega.nz/#F!YmBU3SpC!F0KBx1kpqokOqgBFx5Po1g
 
 Due to the large size of each of the I&Q sample file (which results in 160MB when a 10MHz bandwidth is sampled at 10Msps for 2 second duration), the link above is for the MEGA online storage space, which contains the samples collected by Jerome Arokkiam over 3 different times of the year (as indicated in the folder names). Decryption key is not required to access the folders and files.
